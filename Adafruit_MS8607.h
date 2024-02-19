@@ -83,7 +83,7 @@
 #include <Adafruit_BusIO_Register.h>
 #include <Adafruit_I2CDevice.h>
 #include <Adafruit_Sensor.h>
-#include <Wire.h>
+// #include <Wire.h>
 
 /*!
  *  I2C ADDRESS/BITS/SETTINGS. The MS8607 uses two different I2C addresses
